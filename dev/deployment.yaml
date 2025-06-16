@@ -16,4 +16,4 @@ spec:
       - name: myapp
         image: toba44/docker-js:latest
         ports:
-        - containerPort: 8090
+        - containerPort: 8080
